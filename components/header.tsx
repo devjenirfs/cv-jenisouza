@@ -19,10 +19,10 @@ export default function Header() {
 
       <div className="mt-3 flex flex-wrap gap-4 text-gray-700">
         <a
-          href="mailto:jenifferap@gmail.com"
+          href="mailto:devjenirfs@gmail.com"
           className="flex items-center gap-1 hover:underline"
         >
-          <Mail size={16} /> jenifferap@gmail.com
+          <Mail size={16} /> devjenirfs@gmail.com
         </a>
 
         <a
