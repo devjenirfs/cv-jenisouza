@@ -4,11 +4,16 @@ export default function Profile() {
       <h2 className="text-lg font-semibold border-b pb-1 mb-2">Profile</h2>
       <p>
         Full Stack Software Engineer with strong frontend expertise and hands-on
-        backend experience. Focused on building scalable, user-centered web
-        applications for real-world products. Experienced working with US-based
-        teams, healthcare platforms, and data-driven dashboards. Passionate about
-        clean UI/UX, performance, and translating business needs into reliable
-        technical solutions.
+        backend experience, focused on building scalable, performant,
+        data-driven web applications.
+      </p>
+
+      <p className="mt-2">
+        Experienced in integrating external systems, automating workflows, and
+        developing features that improve business operations and user
+        experience. Proven ability to work in production environments,
+        troubleshoot complex issues, and collaborate with cross-functional and
+        international teams.
       </p>
     </section>
   );

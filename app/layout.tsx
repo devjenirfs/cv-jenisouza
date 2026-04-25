@@ -13,8 +13,9 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Jenifer Souza | Resume",
-  description: "Professional resume of Jenifer Souza, front-end developer. Experience, skills, education, and contact information.",
+  title: "Jeniffer Souza | Resume",
+  description:
+    "Professional resume of Jeniffer Souza, a frontend-focused full stack software engineer specializing in integrations, automation, and data-driven web applications.",
 };
 
 export default function RootLayout({
